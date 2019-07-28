@@ -4,3 +4,7 @@ obj/
 .vs/
 .vscode/
 .ionide/
+
+*.user
+
+*.ncrunch*
