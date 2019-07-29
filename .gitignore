@@ -5,6 +5,8 @@ obj/
 .vscode/
 .ionide/
 
+paket-files/
+
 *.user
 
 *.ncrunch*
