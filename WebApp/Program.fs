@@ -14,7 +14,7 @@ open InfrastructureTypes
 // Web app
 // ---------------------------------
 
-let webApp = text "Hello world"
+let webApp = text "Hello world!"
 
 // ---------------------------------
 // Config and Main

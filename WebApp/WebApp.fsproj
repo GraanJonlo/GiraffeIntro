@@ -12,6 +12,7 @@
     <Compile Include="DomainTypes.fs" />
     <Compile Include="Bing.fs" />
     <Compile Include="UiTypes.fs" />
+    <Compile Include="Views.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
   <ItemGroup>
